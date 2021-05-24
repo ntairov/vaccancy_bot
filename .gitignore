@@ -1,0 +1,21 @@
+# Project specific
+backbone/settings_env.py
+
+# Byte-compiled
+__pycache__/
+
+# Environments
+.venv
+venv
+.env/
+
+# Scrapy stuff:
+.scrapy
+
+# PyCharm
+.idea/
+
+# Mac OS
+.DS_Store
+
+config.ini
